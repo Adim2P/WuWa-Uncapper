@@ -109,6 +109,7 @@ namespace WuWa_Uncapper
                 {
                     Console.WriteLine("An error occured: " + ex.Message);
                     Console.WriteLine("Program ran into an unexpected problem. Report this to the dev, press any key to exit the program");
+                    Console.WriteLine("If the program is returning with an error about 'Disk I/O'");
                     Console.ReadKey();
                     return;
                 }
