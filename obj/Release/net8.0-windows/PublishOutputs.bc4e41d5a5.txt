@@ -1,0 +1,20 @@
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\WuWa Uncapper.exe
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\WuWa Uncapper.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\WuWa Uncapper.deps.json
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\WuWa Uncapper.runtimeconfig.json
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\WuWa Uncapper.pdb
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\EntityFramework.SqlServer.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\EntityFramework.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\System.Data.SQLite.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\System.Data.SqlClient.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\System.Data.SQLite.EF6.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win-arm64\native\sni.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\sni.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\sni.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Files\Personal Files\Game Modifications\WuWa Uncapper\bin\Release\net8.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
