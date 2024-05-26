@@ -17,3 +17,7 @@ This program modifies the LocalStorage.db in the game, and changes the JSON valu
 
 - Head over the releases page and download the .zip
 - Read the instructions inside the zip folder.
+
+## FAQ
+
+- If you're experiencing an error saying 'Disk I/O', simply run the program in admnistrator.
