@@ -57,7 +57,7 @@ namespace WuWa_Uncapper
                             if (dbReader.Read())
                             {
                                 gameQualitySettingJson = dbReader["value"].ToString();
-                                Console.WriteLine("Original GameQualitySetting JSON: ");
+                                Console.WriteLine("\nOriginal GameQualitySetting JSON: ");
                                 Console.WriteLine(gameQualitySettingJson);
                             }
                         }
