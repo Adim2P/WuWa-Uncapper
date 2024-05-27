@@ -1,6 +1,6 @@
 # Wuthering Waves Uncapper
 
-This program modifies the LocalStorage.db in the game, and changes the JSON value for the framerate to 120.
+This program modifies the `LocalStorage.db` in the game, and changes the JSON value for the framerate to 120.
 
 ## Prerequisites
 
