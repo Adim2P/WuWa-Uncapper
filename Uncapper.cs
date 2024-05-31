@@ -23,7 +23,7 @@ namespace WuWa_Uncapper
 			
             Console.WriteLine("\nBefore the program starts, the program would look for values located in the database first.");
             Console.WriteLine("Do note that if the settings fails to pass the prerequisites, you would need to do the following as the program instructs.");
-			Console.WriteLine("A dialogue box would open asking for your LocalStorage.db file, if asked simply go to your game directory file.");
+			Console.WriteLine("Simply find your game directory file and head towards its LocalStorage.db, as shown below.");
 			Console.WriteLine("e.g. E:\\Games\\Wuthering Waves\\Wuthering Waves Game\\Client\\Saved\\LocalStorage\\LocalStorage.db");
 			Console.WriteLine("\nPress any key to continue...");
 			Console.ReadKey();         
@@ -35,7 +35,7 @@ namespace WuWa_Uncapper
                 dbPath = Console.ReadLine();
                 if (string.IsNullOrEmpty(dbPath))
                 {
-                    Console.WriteLine("Please enter a proper file path directory. This cannot be empty, dumbass.");
+                    Console.WriteLine("Please enter a proper file path directory.");
                 }
             } while (string.IsNullOrEmpty(dbPath));
             string connectionString = $"Data Source={dbPath};Version=3;";
@@ -57,8 +57,8 @@ namespace WuWa_Uncapper
                             if (dbReader.Read())
                             {
                                 gameQualitySettingJson = dbReader["value"].ToString();
-                                Console.WriteLine("\nOriginal GameQualitySetting JSON: ");
-                                Console.WriteLine(gameQualitySettingJson);
+                                Console.WriteLine("\nOriginal GameQualitySetting JSON found");
+                                
                             }
                         }
                     }
