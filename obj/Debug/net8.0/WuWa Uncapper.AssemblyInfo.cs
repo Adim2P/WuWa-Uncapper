@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WuWa Uncapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+714f73867996b32d9458b81047abdfe3e462c2f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53db4e648949dc54a7514cfa8ff5abbdfceeb8e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WuWa Uncapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WuWa Uncapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

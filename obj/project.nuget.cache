@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I2qX2ghj/xTkUyQ3in3RS2m1+iA5JdpWUSsqpmYtlNDkp70FXHQN8ETyTRGqgcbAzxdDBViRNQAzrj7Mse/OAQ==",
+  "dgSpecHash": "SICFRp/gq8C+qIVGKWHjH5xJuCicxlmCcRJ+w4lCuJp8kzXy3j1JuSMA7GVWdSREYtvT1twtDCyewtOJE6c5RQ==",
   "success": true,
   "projectFilePath": "D:\\Files\\Personal Files\\Game Modifications\\WuWa Uncapper\\WuWa Uncapper.csproj",
   "expectedPackageFiles": [
@@ -27,7 +27,10 @@
     "C:\\Users\\Adim\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\Adim\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Adim\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\Adim\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\Adim\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Adim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Adim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Adim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }
